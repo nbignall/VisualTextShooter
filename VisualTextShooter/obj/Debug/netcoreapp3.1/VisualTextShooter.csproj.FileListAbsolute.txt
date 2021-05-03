@@ -1,0 +1,13 @@
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.exe
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.deps.json
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.runtimeconfig.json
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.runtimeconfig.dev.json
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.dll
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\bin\Debug\netcoreapp3.1\VisualTextShooter.pdb
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.csprojAssemblyReference.cache
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.AssemblyInfoInputs.cache
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.AssemblyInfo.cs
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.dll
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.pdb
+C:\Users\natha\Source\Repos\nbignall\VisualTextShooter\VisualTextShooter\obj\Debug\netcoreapp3.1\VisualTextShooter.genruntimeconfig.cache
